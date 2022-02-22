@@ -22,7 +22,7 @@ function lower(str) {
 }
 
 const updateAnimal = (arr, callback) => {
-  // Solution code here...
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ For example: 'Cat' would come before 'apple'
 
 const sortNames = (arr) => {
   arr.sort((a, b) => {
-    if(a.toUpperCase() < b.toLowerCase()){
+    if(a.toUpperCase() < b.toUpperCase()){
       return-1;
     }
   });
