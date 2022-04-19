@@ -11,4 +11,4 @@ Write a function called reverseArray, which takes an array as an argument.
 without using built in methods, return a new array with
 the elements in reverse order.
 
-![Image](./python/python-challenge/CodeChallenge-1.png)
+![Image](./CodeChallenge-1.png)
