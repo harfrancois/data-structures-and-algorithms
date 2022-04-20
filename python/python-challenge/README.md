@@ -11,4 +11,11 @@ Write a function called reverseArray, which takes an array as an argument.
 without using built in methods, return a new array with
 the elements in reverse order.
 
-![Image](./CodeChallenge-1.png)
+![Image](./code_challenge-1.png)
+
+### Code Challenge 2
+Write a function called insertShiftArray which takes in an array
+and a value to be added and return an array with the new value
+added at the middle index.
+
+![Image](./code_challenge-2.png)
